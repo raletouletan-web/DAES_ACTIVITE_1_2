@@ -1,0 +1,11 @@
+{
+  "name": "activite1-api-server",
+  "version": "1.0.0",
+  "description": "Express API server for SMTP email sending — Questions Activité 1",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  }
+}
