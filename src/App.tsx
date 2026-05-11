@@ -21,7 +21,7 @@ const QUESTIONS = [
   {
     label: 'Question 3 - Activité 2',
     banner: 'ACTIVITÉ 2 : IDENTIFICATION DES RISQUES LORS DE L\'ACCOMPAGNEMENT DE LA PERSONNE ET LA MISE EN ŒUVRE D\'ACTIONS DE PRÉVENTION ADÉQUATES',
-    prompt: 'Comment avez-vous repéré ces risques ? et Comment avez-vous adapté les actions de prévention à la situation de la personne ?',
+    prompt: 'Comment avez-vous repéré ces risques ? comment avez-vous adapté les actions de prévention à la situation de la personne ?',
   },
 ];
 
